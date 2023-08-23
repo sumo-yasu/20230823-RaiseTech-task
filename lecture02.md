@@ -13,7 +13,8 @@
 ## 新規リポジトリの作成から変更内容のプッシュまで
 1.  GitHub画面右上の＋ボタンからNew repository　で新規リポジトリの作成
 2.  ターミナル上　git init で .gitフォルダを作成（この中に新規リポジトリをクローンする）
-3. git clone https://~ （新規作成したリポジトリのCode > Clone HTTPS の項目をコピー&ペースト）
+3. git clone git@github~　新規作成したリポジトリのCode > Clone SSH の項目をコピー&ペースト）
+   ※https://の方を使うとpush pull時に毎回ユーザー名とパスワードを入力するため面倒
 4. git branch lecture02 （lecture02ブランチを作成）
 5. git checkout lecture02 （作成したlecture02ブランチへ移動）
 6. lecture02.md ファイルを作成
