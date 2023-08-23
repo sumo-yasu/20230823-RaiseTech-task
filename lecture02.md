@@ -19,7 +19,7 @@
 6. lecture02.md ファイルを作成
 7. git add lecture02
 8. git commit -m "〇〇"　（コメントを入れて変更内容をコミット）
-9. git push origin main  (作成した内容をリモートリポジトリへプッシュ) 
+9. git push origin lecture02  (作成した内容をリモートリポジトリへプッシュ) 
 
 
 ## Gitの設定（PCにGitをダウンロードした時点で設定可能）
