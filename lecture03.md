@@ -35,3 +35,4 @@
 11. エラーが出るのでその内容にあわせてconfig/environments/development.rb ファイルを編集する
     →endの前にconfig.hosts << "~~"を入力して接続を許可する
 12. 再度bin/cloud9_devで起動　※画像が上手く表示されない時はsudo yum install  -y  ImageMagick
+![デプロイしたアプリのスクショ](/20230823-RaiseTech-task/サンプルアプリデプロイ.png)
