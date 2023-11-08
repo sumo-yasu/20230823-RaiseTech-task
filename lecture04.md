@@ -37,7 +37,7 @@
 - $ sudo yum install mysql　のコマンドでmysqlをインストール
 - インストール完了後、以下のコマンド　$ mysql -u ユーザー名 -p -h RDSのエンドポイント
 - パスワードはRDS作成時に設定したものを入力
-![EC2-RDS接続完了](./EC2-RDS接続完了.png)
+![EC2-RDS接続完了](./画像/EC2-RDS接続完了.png)
 
 
 ## 躓いたところ
